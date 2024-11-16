@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="splash_background">#000000</color>
+    <color name="your_primary_color">#FF5722</color> <!-- Orange color for example -->
+    <color name="your_secondary_color">#4CAF50</color> <!-- Green color for example -->
+</resources>
