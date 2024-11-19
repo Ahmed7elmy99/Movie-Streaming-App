@@ -21,8 +21,9 @@ Streamix is a sleek movie streaming app offering easy access to popular, top-rat
 | Light Movie View | Arabic Search | Light Settings View | Clear Search History| 
 | :-----------: | :---------: | :------------: | :------------: 
 <img src="https://github.com/user-attachments/assets/5c5ef69d-4870-4881-ac8a-d2aaa42b2f00" width="300"/> | <img src="https://github.com/user-attachments/assets/a8898400-9e2d-4a32-9ad0-6bf223242bd7" width="300"/> | <img src="https://github.com/user-attachments/assets/402c9d05-9d20-43d0-92de-eddddc848f85" width="300"/> | <img src="https://github.com/user-attachments/assets/157b5162-61b4-44eb-b5d0-998891765ac4" width="300"/> |
-https://github.com/user-attachments/assets/78f02666-5822-48ab-97b4-b4c280be3fcd
 
+
+https://github.com/user-attachments/assets/78f02666-5822-48ab-97b4-b4c280be3fcd
 ## Dependencies
 ```yaml
   animate_do: ^3.3.4
